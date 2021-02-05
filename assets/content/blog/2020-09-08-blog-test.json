@@ -2,5 +2,5 @@
   "title": "Blog test",
   "date": "2020-09-08T06:00:00.000Z",
   "description": "Ipsa natus aliquid ",
-  "body": "## some Post\n\n### Some subheader\n\nLorem ipsum dolor websites amet.\n\n> A blockquote from a wise person."
+  "body": "## some Post\n\n### Some subheader\n\nLorem ipsum dolor websites amet.\n\n> A blockquote from a wise person.\n>\n> ![](https://static.businessworld.in/article/article_extra_large_image/1475668357_51thzI_CEO-shutterstock.jpg)"
 }
